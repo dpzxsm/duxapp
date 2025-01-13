@@ -1,4 +1,6 @@
 {
+  "name": "duxapp",
+  "version": "1.0.0",
   "browserslist": [
     "Android >= 4.4",
     "iOS >= 9",
